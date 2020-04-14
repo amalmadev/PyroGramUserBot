@@ -9,7 +9,7 @@ from pyrobot import COMMAND_HAND_LER
 
 
 # -- Constants -- #
-ALIVE = "`I'm alive, Master :3`"
+ALIVE = "`I am alive, Master :3`"
 HELP = "CAADAgAD6AkAAowucAABsFGHedLEzeUWBA"
 REPO = ("User / Bot is available on GitHub:\n"
         "https://github.com/SpEcHiDe/PyroGramUserBot")
